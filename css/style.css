@@ -928,3 +928,11 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+.owl-prev{
+  margin-right: 5px;
+}
+
+.owl-next{
+  margin-left: 5px;
+}
