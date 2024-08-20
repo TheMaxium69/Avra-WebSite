@@ -914,12 +914,12 @@ a:focus {
 /* footer section*/
 .footer_section {
   position: relative;
-  background-color: #ffffff;
+  background-color: #00295e;
   text-align: center;
 }
 
 .footer_section p {
-  color: #00204a;
+  color: white;
   padding: 25px 0;
   margin: 0;
 }
