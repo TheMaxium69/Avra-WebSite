@@ -931,8 +931,10 @@ a:focus {
 
 .owl-prev{
   margin-right: 5px;
+  border-radius: 16px;
 }
 
 .owl-next{
+  border-radius: 16px;
   margin-left: 5px;
 }
